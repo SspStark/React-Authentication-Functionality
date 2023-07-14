@@ -1,6 +1,6 @@
 ## [Authentication](https://ssploginfn.ccbp.tech/login)
 
-### [Click Here](https://ssploginfn.ccbp.tech/login) to see how authentication functionality works using React
+[Click Here](https://ssploginfn.ccbp.tech/login) to see how authentication functionality works using React
 
 ### Refer to the image below:
 
